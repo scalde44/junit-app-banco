@@ -1,0 +1,5 @@
+org\scalderon\junitapp\ejemplos\domain\CuentaTest$SystemEnvironmentProperties.class
+org\scalderon\junitapp\ejemplos\domain\CuentaTest$TimeOutTest.class
+org\scalderon\junitapp\ejemplos\domain\CuentaTest$JavaVersionTest.class
+org\scalderon\junitapp\ejemplos\domain\CuentaTest.class
+org\scalderon\junitapp\ejemplos\domain\CuentaTest$SistemaOperativoTest.class

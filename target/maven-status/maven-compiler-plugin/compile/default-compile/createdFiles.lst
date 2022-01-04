@@ -1,0 +1,3 @@
+org\scalderon\junitapp\ejemplos\domain\Banco.class
+org\scalderon\junitapp\ejemplos\exception\DineroInsuficienteException.class
+org\scalderon\junitapp\ejemplos\domain\Cuenta.class
